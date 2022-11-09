@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pawp5
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning OOP
+- 🌱 I’m currently learning OOP(Python)
 - 💞️ I’m looking to collaborate on fun projects
 
 <!---
