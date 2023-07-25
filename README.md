@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @pawp5
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning OOP(Python)
-- 💞️ I’m looking to collaborate on fun projects
+- 👋 Hi, I’m Henschel
+- 👀 I’m interested in software development and ML
+- 🌱 I’m currently learning DSA
+- 💞️ I’m looking to have a fun, collaborate and meet amazing people while working on fun projects
 
 <!---
 pawp5/pawp5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
